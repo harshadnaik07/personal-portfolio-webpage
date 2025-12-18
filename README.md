@@ -121,4 +121,5 @@ The main purpose of this portfolio is to:
 - LinkedIn: https://www.linkedin.com/in/harshad-naik-b90859343
 
 ## output
+<img width="1888" height="897" alt="Image" src="https://github.com/user-attachments/assets/da4da3d3-535d-4298-b915-5aa3342665b8" />
 
